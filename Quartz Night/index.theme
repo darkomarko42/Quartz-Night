@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Quartz Night
+Comment=GTK Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Quartz Night
+MetacityTheme=Quartz Night
+IconTheme=Marwaita-Dark
+CursorTheme=Marwaita
+CursorSize=24
