@@ -7,6 +7,6 @@ Encoding=UTF-8
 [X-GNOME-Metatheme]
 GtkTheme=Quartz Night
 MetacityTheme=Quartz Night
-IconTheme=Marwaita-Dark
+IconTheme=Marwaita-Light
 CursorTheme=Marwaita
 CursorSize=24
